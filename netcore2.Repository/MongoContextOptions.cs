@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace netcore2_mongodb.Repository
+namespace netcore2.Repository
 {
     public class MongoContextOptions
     {

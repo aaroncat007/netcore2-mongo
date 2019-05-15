@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace netcore2_mongodb.Repository
+namespace netcore2.Repository
 {
     public static class MongoContextExtensions
     {

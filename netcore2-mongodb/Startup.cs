@@ -1,18 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using AspNetCore.Identity.Mongo;
+﻿using AspNetCore.Identity.Mongo;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using netcore2_mongodb.Models;
-using netcore2_mongodb.Repository;
-using netcore2_mongodb.Repository.Repository;
+using netcore2.Repository;
+using netcore2.Repository.Repository;
 using netcore2_mongodb.Services.Identity;
 using netcore2_mongodb.Services.Mailing;
 

@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace netcore2_mongodb.Repository.Document
+namespace netcore2.Repository.Document
 {
     public abstract class Document : IDocument
     {

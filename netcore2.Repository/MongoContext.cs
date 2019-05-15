@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace netcore2_mongodb.Repository
+namespace netcore2.Repository
 {
     public class MongoContext : IMongoContext
     {

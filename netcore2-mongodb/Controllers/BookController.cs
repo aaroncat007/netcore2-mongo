@@ -4,8 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using netcore2_mongodb.Repository.Document;
-using netcore2_mongodb.Repository.Repository;
+using netcore2.Repository.Document;
+using netcore2.Repository.Repository;
 
 namespace netcore2_mongodb.Controllers
 {

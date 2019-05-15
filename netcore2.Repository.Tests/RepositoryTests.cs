@@ -1,13 +1,13 @@
 using MongoDB.Bson;
-using netcore2_mongodb.Repository;
-using netcore2_mongodb.Repository.Document;
-using netcore2_mongodb.Repository.Repository;
+using netcore2.Repository;
+using netcore2.Repository.Document;
+using netcore2.Repository.Repository;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace netcore2_mongodb.Repository.Tests
+namespace netcore2.Repository.Tests
 {
     public class RepositoryTests
     {

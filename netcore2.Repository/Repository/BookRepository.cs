@@ -1,9 +1,9 @@
-﻿using netcore2_mongodb.Repository.Document;
+﻿using netcore2.Repository.Document;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace netcore2_mongodb.Repository.Repository
+namespace netcore2.Repository.Repository
 {
     public interface IBookRepository : IRepository<Book> { }
 

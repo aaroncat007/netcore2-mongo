@@ -6,7 +6,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
-namespace netcore2_mongodb.Repository
+namespace netcore2.Repository
 {
     public abstract class MongoRepository<TEntity> : IRepository<TEntity> where TEntity : class
     {

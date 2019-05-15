@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\netcore2.Repository\netcore2_mongodb.Repository.csproj" />
+    <ProjectReference Include="..\netcore2.Repository\netcore2.Repository.csproj" />
   </ItemGroup>
 
 </Project>
